@@ -98,7 +98,7 @@ const options = {
   // https://next-auth.js.org/configuration/options#events
   events: { },
 
-  // Enable debug messages in the console if you are having problems
+  // Eenable debug messages in the console if you are having problems
   debug: false,
 }
 
